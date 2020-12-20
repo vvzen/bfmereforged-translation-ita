@@ -1,0 +1,41 @@
+-- Azioni
+Clicca con il pulsante sinistro per attivare.
+Click sinistro sull'icona, quindi click sinistro sull'area bersaglio
+Click sinistro sull'icona, quindi sul bersaglio
+
+-- Tipi di effetti
+LEADERSHIP > Comando
+BUFF > Bonus
+SPELL > Incantesimo
+
+-- Parole chiave:
+Armor > Corazza
+Banner > Stendardo
+CloudBreak > Spezzanubi
+Crushing > Schiacciamento
+Damage > Danno
+Darkness > Oscurità
+Elven Cloak > Mantello Elfico
+Fear > Paura
+Fellbeasts > Bestie Alate
+Fortress > Fortezza
+Freezing Rain > Pioggia Gelida
+Passive ability > Abilità passiva
+Rate of fire > Frequenza di tiro
+Research > Ricerca
+Resource Buildings > Strutture di Produzione Risorse
+Speed > Velocità
+Shield Maiden > Fanciulla Guerriera
+Shroud Revealing > Dirada la nebbia
+Terror > Terrore
+Stealthed > Nascosti
+Upgrade > Potenziamento
+
+--- Frasi fatte
+Le unità alleate guadagnano resistenza alla paura e al terrore
+earn experience 25% faster > +25% Accumulo Esperienza
+
+Allies near gain.. > Le unità vicine ottengono
+Wipes LEADERSHIP and BUFF effects from the enemy > Annulla Bonus e Comando del nemico
+
+--- Personaggi
